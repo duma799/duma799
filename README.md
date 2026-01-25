@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=81A1C1&center=true&vCenter=true&width=435&lines=Python+Developer;Neovim+Enthusiast;MacOS+Tiling+WM+User;Minimalist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&typingDelay=35&color=81A1C1&center=true&vCenter=true&width=435&lines=I+am+duma" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,19 +21,13 @@ I am a student and developer passionate about creating efficient, keyboard-centr
 ## 🛠️ Tech Stack
 
 <div align="center">
-
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-
   <br/>
-
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
 </div>
-
 ---
 
 ## 📊 GitHub Stats
