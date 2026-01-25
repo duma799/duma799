@@ -12,10 +12,9 @@
 
 I am a student and developer passionate about creating efficient, keyboard-centric workflows.
 
-* 🐍 **Main Language:** Python (The best one)
+* 🐍 **Main Language:** Python
 * 💻 **Setup:** MacBook Air M4 + Yabai + Skhd
-* 📝 **Editor:** Neovim (NvChad/LazyVim)
-* 🎨 **Aesthetic:** Minimalist / Tiling Window Managers
+* 📝 **Editor:** Neovim/Zed
 
 ---
 
@@ -41,8 +40,8 @@ I am a student and developer passionate about creating efficient, keyboard-centr
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1&text_color=D8DEE9" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=duma799&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1&text_color=D8DEE9" height="150" alt="stats graph" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&hide=rust" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duma799&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&hide=rust" height="150" alt="languages graph" />
 
 </div>
