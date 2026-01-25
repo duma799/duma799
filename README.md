@@ -39,3 +39,4 @@ I am a student and developer passionate about creating efficient, keyboard-centr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duma799&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&hide=rust" height="150" alt="languages graph" />
 
 </div>
+---
