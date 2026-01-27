@@ -36,10 +36,10 @@ I am a student and developer passionate about creating efficient, keyboard-centr
 
 <div align="center">
   <a href="https://github.com/duma799/hyprduma-config">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duma799&repo=hyprduma-config&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1&text_color=D8DEE9" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duma799&repo=hyprduma-config&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1&text_color=D8DEE9&cache_seconds=7200" />
   </a>
   <a href="https://github.com/duma799/yabaduma-config">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duma799&repo=yabaduma-config&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1&text_color=D8DEE9" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duma799&repo=yabaduma-config&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1&text_color=D8DEE9&cache_seconds=7200" />
   </a>
 </div>
 
