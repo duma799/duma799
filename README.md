@@ -36,10 +36,10 @@ I am a student and developer passionate about creating efficient, keyboard-centr
 
 <div align="center">
   <a href="https://github.com/duma799/hyprduma-config">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duma799&repo=hyprduma-config&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1&text_color=D8DEE9&cache_seconds=7200" />
+    <img src="./stats/pin_card_hyprduma-config.svg" />
   </a>
   <a href="https://github.com/duma799/yabaduma-config">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duma799&repo=yabaduma-config&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1&text_color=D8DEE9&cache_seconds=7200" />
+    <img src="./stats/pin_card_yabaduma-config.svg" />
   </a>
 </div>
 
@@ -49,8 +49,8 @@ I am a student and developer passionate about creating efficient, keyboard-centr
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=duma799&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1&text_color=D8DEE9" height="150" alt="stats graph" />
+  <img src="./stats/stats_card.svg" height="150" alt="stats graph" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duma799&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&hide=rust" height="150" alt="languages graph" />
+  <img src="./stats/top_langs_card.svg" height="150" alt="languages graph" />
 
 </div>
