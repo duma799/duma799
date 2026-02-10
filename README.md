@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&duration=2000&color=81A1C1&center=true&vCenter=true&width=435&lines=I+am+duma!&repeat=false" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&duration=2000&color=70a5fd&center=true&vCenter=true&width=435&lines=I+am+duma!&repeat=false" alt="Typing SVG" />
   </a>
 </div>
 
@@ -47,9 +47,9 @@ I am a student and developer passionate about creating efficient, keyboard-centr
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=duma799&theme=nord&hide_border=true&background=2E3440&ring=88C0D0&fire=88C0D0&currStreakLabel=D8DEE9&sideLabels=D8DEE9&currStreakNum=D8DEE9&sideNums=D8DEE9&dates=81A1C1" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=duma799&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=a9b1d6&sideLabels=a9b1d6&currStreakNum=a9b1d6&sideNums=a9b1d6&dates=38bdae" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=duma799&theme=nord&hide_border=true&bg_color=2E3440&color=D8DEE9&line=88C0D0&point=81A1C1&area=true&area_color=88C0D0" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=duma799&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=a9b1d6&line=70a5fd&point=bf91f3&area=true&area_color=70a5fd" alt="Activity Graph" />
 </div>
