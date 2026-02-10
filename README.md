@@ -21,13 +21,7 @@ I am a student and developer passionate about creating efficient, keyboard-centr
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,lua,bash,neovim,linux,apple&theme=dark&perline=6" alt="Tech Stack" />
 </div>
 
 ---
@@ -36,10 +30,10 @@ I am a student and developer passionate about creating efficient, keyboard-centr
 
 <div align="center">
   <a href="https://github.com/duma799/hyprduma-config">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duma799&repo=hyprduma-config&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1&text_color=D8DEE9" />
+    <img src="./profile/pin-hyprduma-config.svg" alt="hyprduma-config" />
   </a>
   <a href="https://github.com/duma799/yabaduma-config">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duma799&repo=yabaduma-config&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1&text_color=D8DEE9" />
+    <img src="./profile/pin-yabaduma-config.svg" alt="yabaduma-config" />
   </a>
 </div>
 
@@ -48,9 +42,14 @@ I am a student and developer passionate about creating efficient, keyboard-centr
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="./profile/stats.svg" height="150" alt="stats graph" />
+  <img src="./profile/top-langs.svg" height="150" alt="languages graph" />
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=duma799&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1&text_color=D8DEE9" height="150" alt="stats graph" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=duma799&theme=nord&hide_border=true&background=2E3440&ring=88C0D0&fire=88C0D0&currStreakLabel=D8DEE9&sideLabels=D8DEE9&currStreakNum=D8DEE9&sideNums=D8DEE9&dates=81A1C1" alt="GitHub Streak" />
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duma799&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&hide=rust" height="150" alt="languages graph" />
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=duma799&theme=nord&hide_border=true&bg_color=2E3440&color=D8DEE9&line=88C0D0&point=81A1C1&area=true&area_color=88C0D0" alt="Activity Graph" />
 </div>
