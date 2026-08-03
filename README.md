@@ -25,16 +25,3 @@ I am a student and developer passionate about creating efficient, keyboard-centr
 </div>
 
 ---
-
-## 📁 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/duma799/hyprduma-config">
-    <img src="./profile/pin-hyprduma-config.svg" alt="hyprduma-config" />
-  </a>
-  <a href="https://github.com/duma799/yabaduma-config">
-    <img src="./profile/pin-yabaduma-config.svg" alt="yabaduma-config" />
-  </a>
-</div>
-
----
