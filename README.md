@@ -21,7 +21,7 @@ I am a student and developer passionate about creating efficient, keyboard-centr
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,lua,bash,neovim,linux,apple&theme=dark&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cs,neovim,linux,apple&theme=dark&perline=6" alt="Tech Stack" />
 </div>
 
 ---
