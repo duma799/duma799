@@ -12,16 +12,16 @@
 
 I am a student and developer passionate about creating efficient, keyboard-centric workflows.
 
-* 🐍 **Main Language:** C#
-* 💻 **Setup:** MacBook Air M4
-* 📝 **Editor:** NVim/Rider
+*  **Main Language:** C#
+*  **Setup:** MacBook Air M4
+*  **Editor:** NVim/Rider
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,neovim,linux,apple&theme=dark&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cs,python,neovim,linux,apple&theme=dark&perline=6" alt="Tech Stack" />
 </div>
 
 ---
